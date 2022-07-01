@@ -8,3 +8,7 @@
 
   <p align="center">
     <br/>
+<p align="center">
+  <a href="https://discord.com/invite/bdfzqRDXd4">
+    <img src="https://discordapp.com/api/guilds/805215684761354251/widget.png?style=shield" alt="Discord Server">
+</p>
